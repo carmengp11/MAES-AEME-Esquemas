@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="04_contenido_atributos_restricciones.xsd"?>
+
+<nombre adulto = "false">María</nombre>
